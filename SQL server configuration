@@ -1,0 +1,8 @@
+1. Telnet to DB server from web server
+2. Login to DB server
+3. Go to SQL server configuration
+4. SQL server network configuration
+5. Go to protocols for MSSQLSERVER
+6. check if TCP/IP is enabled
+7. Go to properties --> IP adresses --> TCP port (check if port is set)
+8. 
